@@ -1,3 +1,7 @@
+## 集成 lua-protobuf
+已经重新编译好tolua库
+可运行TestLuaProtobuf场景进行测试
+
 ## tolua#
 
 tolua# is a Unity lua static binder solution. the first solution that analyzes code by reflection and generates wrapper classes.<br>
